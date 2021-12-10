@@ -36,7 +36,7 @@ Students can also download any of their library transcriptions as PDFs, providin
 What we learned
 
 - Learned various concepts of the HTTP protocol:
--- Allowable methods (GET & POST) and how to configure them in Flask
+() Allowable methods (GET & POST) and how to configure them in Flask
 - How to code multipart form uploads for audio and video files
 
 ## What's next for classcript
