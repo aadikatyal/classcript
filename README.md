@@ -10,9 +10,7 @@ classcript is an in-person/virtual classroom tool that accepts audio files and t
 
 Students can also download any of their library transcriptions as PDFs, providing them with printable notes ready for next class! classcript can also convert lecture notes to different languages - perfect for foreign students struggling with English. Finally, students can share their lecture notes with other classmates via email.
 
-## How we built it
-
-# Dependencies Utilized:
+## Dependencies Utilized:
 - Python
 - Flask
 - SQLAlchemy
