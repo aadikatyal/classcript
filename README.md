@@ -11,18 +11,15 @@ classcript is an in-person/virtual classroom tool that accepts audio files and t
 Students can also download any of their library transcriptions as PDFs, providing them with printable notes ready for next class! classcript can also convert lecture notes to different languages - perfect for foreign students struggling with English. Finally, students can share their lecture notes with other classmates via email.
 
 ## Dependencies Utilized:
-- Python
-- Flask
+- Python (Flask)
 - SQLAlchemy
 - Google Web Speech API
 - OpenCV API
 - NumPy
 - Google Translate API
-- FFmpeg multimedia framework
-- smtplib (email)
+- FFmpeg (multimedia framework)
+- smtplib
 - BeautifulSoup parser
-- HTML, CSS/Bootstrap
-- JavaScript
 
 ## How to install on your server
 
